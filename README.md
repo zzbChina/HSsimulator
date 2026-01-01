@@ -11,7 +11,6 @@ apk文件中是H5移动端的安卓安装包，可在安卓端上运行。
 
 ## 英雄选择
 <img src=".\demo\localhost_8080_(iPhone 14 Pro Max) (3).png" alt="5_0版本 (7)" style="width: 400px; height: auto;"> <img src=".\demo\localhost_8080_(iPhone 14 Pro Max) (4).png" alt="5_0版本 (7)" style="width: 400px; height: auto;">
-
 完成8个不同英雄技能，对局难度可以调整
 
 ## 随从购买
