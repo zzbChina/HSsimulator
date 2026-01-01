@@ -5,7 +5,6 @@
 
 ## 版本切换选择
 <img src=".\demo\localhost_8080_(iPhone 14 Pro Max).png" alt="5_0版本 (7)" style="width: 400px; height: auto;"> <img src=".\demo\localhost_8080_(iPhone 14 Pro Max) (2).png" alt="5_0版本 (7)" style="width: 400px; height: auto;">
-<img src=".\demo\localhost_8080_(iPhone 14 Pro Max) (3).png" alt="5_0版本 (7)" style="width: 400px; height: auto;">
 
 目前完成3个不同版本，和1个半成版本
 
