@@ -5,10 +5,10 @@
 apk文件中是H5移动端的安卓安装包，可在安卓端上运行。
 
 ## 版本切换选择
+<img src=".\demo\localhost_8080_(iPhone 14 Pro Max).png" alt="5_0版本 (7)" style="width: 400px; height: auto;">
+<img src=".\demo\localhost_8080_(iPhone 14 Pro Max) (2).png" alt="5_0版本 (7)" style="width: 400px; height: auto;">
 
-![localhost_8080_(iPhone 14 Pro Max)](.\demo\localhost_8080_(iPhone 14 Pro Max).png)
 
-![localhost_8080_(iPhone 14 Pro Max) (2)](D:\zzb\project\self\炉石模拟器\GitHS\demo\localhost_8080_(iPhone 14 Pro Max) (2).png)
 
 ![localhost_8080_(iPhone 14 Pro Max) (1)](D:\zzb\project\self\炉石模拟器\GitHS\demo\localhost_8080_(iPhone 14 Pro Max) (1).png)
 
