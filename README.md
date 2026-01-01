@@ -1,8 +1,7 @@
 # 炉石模拟器
 ## 注意
-网页版直接打开html文件，**须在在开发者移动端模式下运行，PC端无法拖动随从**。
+网页版直接打开html文件，**须在在开发者模式下选择移动端横屏模式运行，否则PC端鼠标无法拖动随从**。
 
-apk文件中是H5移动端的安卓安装包，可在安卓端上运行。
 
 ## 版本切换选择
 <img src=".\demo\localhost_8080_(iPhone 14 Pro Max).png" alt="5_0版本 (7)" style="width: 400px; height: auto;"> <img src=".\demo\localhost_8080_(iPhone 14 Pro Max) (2).png" alt="5_0版本 (7)" style="width: 400px; height: auto;">
